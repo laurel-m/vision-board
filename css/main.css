@@ -1,0 +1,75 @@
+/***** BODY *****/
+body {
+    background-color: #ebebeb;
+}
+
+#vision-board {
+    background: url('../img/background.png');
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    height: 850px;
+    margin: 50px auto;
+    overflow: auto;
+    width: 1200px;
+    text-transform: uppercase;
+}
+
+.block {
+    box-sizing: border-box;
+    float: left;
+    width: 400px;
+}
+
+.small-block {
+    height: 210px;
+    padding: 20px 40px;
+}
+
+.large-block {
+    height: 430px;
+    padding: 70px 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.light-bg {
+    background-color: #ffffff;
+}
+
+.dark-bg {
+    background-color: #3b3b3b;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.marker {
+    font-family: 'Permanent Marker', cursive;
+    font-weight: normal;
+}
+
+.highlight {
+    padding: 5px 15px;
+    background: #FFF44F;
+    font-size: 18px;
+}
+
+.top-padding {
+    padding-top: 40px;
+}
+strong {
+    font-size: 38px;
+    line-height: 38px;
+    text-transform: none;
+}
